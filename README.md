@@ -1,4 +1,4 @@
-# Bootstrap Portfolio
+# Employer-Ready Portfolio (Draft)
 
 First iteration of my employer-ready portfolio built with HTML and CSS.
 
