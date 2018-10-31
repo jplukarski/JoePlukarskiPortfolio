@@ -8,4 +8,4 @@ First iteration of my employer-ready portfolio built with HTML and CSS.
 
 ## Live Link
 
-https://jplukarski.github.io/JoePlukarskiPortfolio/
+https://jplukarski.github.io/Portfolio-Draft/
